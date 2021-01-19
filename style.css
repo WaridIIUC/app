@@ -1,0 +1,19 @@
+
+.navbar-brand{
+    font-size:xx-large;
+}
+.navbar{
+    font-family: 'Potta One', cursive;
+    background-color: #affc9a !important;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #affc9a !important;
+}
+
+a{
+    text-decoration: none;
+}
+.table th, td {
+    text-align: center;   
+ }
